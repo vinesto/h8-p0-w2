@@ -1,0 +1,40 @@
+week 2 exercise 1
+
+Pseudocode
+
+1. Newton Second Law
+
+store "f" with any value
+store "m" with "600 kg"
+store "a" with "2 m/s2"
+calc "m" times "a"
+set "f" value with calc result
+
+display "f"
+
+2. Tahun Kabisat
+
+store "year" with any value
+store "kabisat" with any value
+store "bukan kabisat" with any value
+if "year mod 4 = 0 and year mod 100 /= 0" or "year mod 4 = 0, and year mod 100 = 0 and, year mod 400 = 0"
+	 do "kabisat" else "bukan"
+
+3. Mesin Cuci
+
+store "pakaian" with 0
+while "pakaian" < 20
+add "pakaian" by 1
+
+Display "cuci"
+
+4. Periksa Kuku
+
+store "sis" to 40
+
+while "sis" < 40
+	Display "sis"
+	calc "sis" mod 2
+	store "kuku" to the result of calc
+	if "kuku = 0" display "pendek"
+	   else display "panjang" 
